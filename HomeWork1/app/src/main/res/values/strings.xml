@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="first_note_title">Покупки</string>
+    <string name="first_note_content">Хлеб, молоко, кефир, шоколад</string>
+    <string name="second_note_title">Работа</string>
+    <string name="second_note_content">Установить 1С в бухалтерии</string>
+    <string name="third_note_title">Дни рождения</string>
+    <string name="third_note_content">Поздравить с днем рождения Андрея</string>
+    <string name="note_title">Node title</string>
+    <string name="note_content">Note content</string>
+    <string name="note_date_of_creation">Note date of creation</string>
+</resources>
