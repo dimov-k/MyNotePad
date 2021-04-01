@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691721388246",
+    "project_id": "homework10-65daf",
+    "storage_bucket": "homework10-65daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691721388246:android:97eeb52356fee3bda54977",
+        "android_client_info": {
+          "package_name": "ru.mrroot.android1.mynotepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691721388246-k61tuceisuek3agbfcocjdlc8fk665jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.mrroot.android1.mynotepad",
+            "certificate_hash": "de1607840ef2801e03922c404af34c408b8337e6"
+          }
+        },
+        {
+          "client_id": "691721388246-fjfb8d11k8s3nlsk53fnedo77n80lkda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_RnkiDe59kaszEmeHsdY2d-a65tkAYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691721388246-fjfb8d11k8s3nlsk53fnedo77n80lkda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
