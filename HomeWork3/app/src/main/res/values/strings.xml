@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyNotePad</string>
+    <string name="title1">Покупки</string>
+    <string name="title2">Фильмы</string>
+    <string name="title3">Пароли и логины</string>
+    <string name="title4">Задачи</string>
+
+    <string name="description1">Хлеб, молоко, колбаса, пицца, пиво, раки</string>
+    <string name="description2">Лига справедливости, Смертельная иллюзии</string>
+    <string name="description3">Admin/QweRtY6487</string>
+    <string name="description4">Настроить 1С</string>
+
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="update">Изменить</string>
+    <string name="delete">Удалить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
